@@ -17,4 +17,4 @@ inputs.forEach((input, index) => {
       }
     }
   });
-});
+
